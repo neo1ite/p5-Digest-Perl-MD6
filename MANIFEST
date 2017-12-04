@@ -1,0 +1,8 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+rand.f
+test.pl
+t/Digest-Perl-MD6.t
+lib/Digest/Perl/MD6.pm

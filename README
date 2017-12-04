@@ -1,4 +1,4 @@
-Digest-Perl-MD6 version 0.01
+Digest::Perl::MD6 version 0.01
 ============================
 
 This is a Perl implementation of the MD6 message-digest algorithm (see:
@@ -14,8 +14,6 @@ To install this module type the following:
    make install
 
 COPYRIGHT AND LICENCE
-
-Put the correct copyright and licence information here.
 
 Copyright (C) 2017 by Sergey V. Kovalev
 
